@@ -1,0 +1,6 @@
+{
+  "name": "AnomaFix",
+  "description": "An AI-powered hyperlocal civic issue reporting platform where citizens report, verify, track, and resolve public infrastructure problems through community collaboration.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
